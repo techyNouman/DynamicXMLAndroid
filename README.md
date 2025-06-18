@@ -41,6 +41,7 @@ XML:
     </screen>
 
 
-  ## 📸 Screenshot
+## 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/5d83834e-0a2f-481f-af5c-1ea41e602643)
+<img src="https://github.com/user-attachments/assets/5d83834e-0a2f-481f-af5c-1ea41e602643" width="300"/>
+
